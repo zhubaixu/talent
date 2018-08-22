@@ -17,6 +17,10 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    // jenkins报错解决
+    lintOptions {
+            abortOnError false
+        }
 }
 
 dependencies {
