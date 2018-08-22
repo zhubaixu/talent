@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhubaixu/.android/build-cache/b2acd765225f56ff3c8151439bd8c6804c7b6feb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/zhubaixu/AndroidStudioProjects/MyIdCard/app/build/intermediates/pre-dexed/debug/classes_ee5b402a2e40a49faf41ce5b26252861910b7f39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhubaixu/.android/build-cache/0e330ea62dd416ae7c7ccfbad9d931c25bdef406/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/zhubaixu/AndroidStudioProjects/MyIdCard/app/build/intermediates/pre-dexed/debug/classes_a66a51ebf54ff09adb078ed8c1f18907b90b250a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhubaixu/.android/build-cache/02033ce96ffddb7cf3f0f2db8364bf0e8d197d24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/zhubaixu/AndroidStudioProjects/MyIdCard/app/build/intermediates/pre-dexed/debug/classes_9d1f9925078e7b2b12c55b47f81def2c64c84930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhubaixu/.android/build-cache/a40a84dbe6e7197bffc5317d4300b9df20757198/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/zhubaixu/AndroidStudioProjects/MyIdCard/app/build/intermediates/pre-dexed/debug/classes_d124c014539c62c47ae65352ac051db9e067aeee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhubaixu/.android/build-cache/e0b30c29b0414a1568480bbf69ea1aec2b3319e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/zhubaixu/AndroidStudioProjects/MyIdCard/app/build/intermediates/pre-dexed/debug/classes_5b0d2a7a286caf0d17c39c4fdd452e6fff3e63e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhubaixu/.android/build-cache/e5b0e34fe84f9f79cb81d4df5b55f0f449805f94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhubaixu/AndroidStudioProjects/MyIdCard/app/build/intermediates/pre-dexed/debug/classes_7f36ce492dd168d3e34942bdb67340c5db245d01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhubaixu/.android/build-cache/87da0d480966740cd2b0eb6cb7e8f105747ed77d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/zhubaixu/AndroidStudioProjects/MyIdCard/app/build/intermediates/pre-dexed/debug/classes_2c9cf9a25e6b3776f5ab7586d98600d3959bb3b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhubaixu/.android/build-cache/ee723f27de74db316bd6367195b59b1002e32e26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/zhubaixu/AndroidStudioProjects/MyIdCard/app/build/intermediates/pre-dexed/debug/classes_4facbae6f07bcd5aeedb7bda04ff0c39fe17f104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhubaixu/.android/build-cache/6b09b17428499991621137f0598d4a98b697db87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/zhubaixu/AndroidStudioProjects/MyIdCard/app/build/intermediates/pre-dexed/debug/classes_533a380e895f1cb7bb39e3aa68573ec6fdc8c255.jar" />
+    </item>
+
+</items>
